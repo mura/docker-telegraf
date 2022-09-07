@@ -1,2 +1,2 @@
 # docker-telegraf
-Cosutomized telegraf
+Customized telegraf
